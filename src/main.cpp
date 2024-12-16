@@ -17,7 +17,7 @@ int main() {
     // Your own initialization code here
     // ...
     // ...
-    Texture2D myTexture = LoadTexture("assets/graphics/testimage.png");
+    Texture2D myTexture = LoadTexture("assets/graphics/Amongus.png");
 
     // Main game loop
     while (!WindowShouldClose()) // Detect window close button or ESC key
