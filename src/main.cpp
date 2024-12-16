@@ -32,7 +32,7 @@ int main() {
             // ...
             ClearBackground(WHITE);
             DrawText("Hello, world!", 20, 19, 54, LIGHTGRAY);
-            DrawTexture(myTexture, 10, 100, WHITE);
+            DrawTexture(myTexture, 30, 101, WHITE);
 
         EndDrawing();
     } // Main game loop end
